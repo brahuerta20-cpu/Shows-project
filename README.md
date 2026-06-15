@@ -1,7 +1,7 @@
 # Empresa Showz
 Optimización de gastos de marketing para entradas de eventos.
 
-La empresa de venta de entradas para eventos Showz busca optimizar sus gastos de marketing debido a la necesidad de mejorar la rentabilidad de sus campañas de adquisición de clientes. Para ello, se disponía de registros de visitas al sitio web, información de pedidos realizados entre enero de 2017 y diciembre de 2018, y estadísticas de inversión en marketing.
+La empresa de venta de entradas para eventos Showz buscaba optimizar sus gastos de marketing debido a la necesidad de mejorar la rentabilidad de sus campañas de adquisición de clientes. Para ello, se disponía de registros de visitas al sitio web, información de pedidos realizados entre enero de 2017 y diciembre de 2018, y estadísticas de inversión en marketing.
 
 La responsabilidad principal consistió en analizar el comportamiento de los usuarios y evaluar la eficiencia de las inversiones en marketing. Los objetivos específicos fueron:
 
